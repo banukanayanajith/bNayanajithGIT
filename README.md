@@ -1,31 +1,70 @@
-<h1 align="center">Hi 👋, I'm Banuka Nayanajith</h1>
-<h3 align="center">A passionate software engineer from Sri Lanka</h3>
+# 👋 Hello, I'm Banuka Nayanajith!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bnayanajithgit&label=Profile%20views&color=0e75b6&style=flat" alt="bnayanajithgit" /> </p>
+## 🚀 Senior Software Engineer | Axiata Digital Labs
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnayanajithgit" alt="bnayanajithgit" /></a> </p>
+📧 [banu.nayanajith@hotmail.com](mailto:banu.nayanajith@hotmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/banukanayanajith/) | 🐙 [GitHub](https://github.com/banukanayanajith)
 
-- 🔭 I’m currently working on **dSquare Technologies**
+I'm a seasoned Senior Software Engineer with a strong background in designing and developing robust, scalable software solutions. My expertise lies in Java, Spring Boot, Microservices, Cloud Computing, and more.
 
-- 🌱 I’m currently learning **Microservices, Cloud Technolgies**
+### 🔧 Technical Skills
 
-- 💬 Ask me about **java, spring boot, angular, micro-service architecture and etc.**
+#### Programming Languages
 
-- 📫 How to reach me **banu.nayanajith@hotmail.com**
+![Java](https://img.shields.io/badge/Java-Expert-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-blue)
+![Python](https://img.shields.io/badge/Python-Proficient-blue)
+![PHP](https://img.shields.io/badge/PHP-Proficient-blue)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/banukanayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banukanayanajith" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/banuka-nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="banuka-nayanajith" height="30" width="40" /></a>
-<a href="https://fb.com/banu.wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banu.wolf" height="30" width="40" /></a>
-<a href="https://medium.com/@banukan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@banukan73" height="30" width="40" /></a>
-</p>
+#### Frameworks
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen)
+![Play](https://img.shields.io/badge/Play-Proficient-lightgrey)
+![Angular](https://img.shields.io/badge/Angular-Proficient-red)
+![Vue](https://img.shields.io/badge/Vue-Proficient-green)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnayanajithgit&show_icons=true&locale=en&layout=compact" alt="bnayanajithgit" /></p>
+#### Databases
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnayanajithgit&show_icons=true&locale=en" alt="bnayanajithgit" /></p>
+![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)
+![MariaDB](https://img.shields.io/badge/MariaDB-Expert-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-green)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnayanajithgit&" alt="bnayanajithgit" /></p>
+#### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-Proficient-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-Proficient-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Proficient-blue)
+![AWS](https://img.shields.io/badge/AWS-Proficient-orange)
+![GCP](https://img.shields.io/badge/GCP-Proficient-blue)
+
+### 🧠 Soft Skills
+
+- Critical Thinking
+- Problem Solving
+- Time Management
+- Effective Communication
+- Teamwork
+
+### 🛠️ Highlights
+
+- **Current Position:** Associate Technical Lead at Axiata Digital Labs (Since Apr 2023)
+  - Implemented microservices architecture using Java 17 and Spring Boot, resulting in a 10% increase in system uptime.
+  - Led the design of a distributed credit risk assessment platform, reducing loan creation time by 30%.
+  - Collaborated with data science for integrating ML models into the lending platform, improving credit score accuracy.
+
+- **Previous Experience:** Senior Software Engineer at Axiata Digital Labs (Oct 2021 - Mar 2023)
+  - Developed telco and FinTech products using Java, Spring Boot, Play, AWS, Angular, Kubernetes, and Docker.
+  - Designed scalable APIs for efficient money disbursements, leading to a 60% efficiency increase.
+  - Integrated third-party digital identity intelligence for enhanced fraud prevention and seamless customer experiences.
+
+- **Education:** Master of Science in Information Technology from Cardiff Metropolitan University (Jun 2021)
+
+### 📈 GitHub Stats
+
+[![Banuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=banukanayanajith&count_private=true&show_icons=true&theme=radical)](https://github.com/banukanayanajith)
+
+### 🤝 Connect with Me
+
+Let's connect and discuss exciting opportunities or collaborations! Feel free to reach out via [email](mailto:banu.nayanajith@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/banukanayanajith/).
+
+Happy coding! 🚀
