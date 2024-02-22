@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Banuka Nayanajith!
 
-## 🚀 Senior Software Engineer | Axiata Digital Labs
+## 🚀 Associate Technical Lead | Axiata Digital Labs
 
 📧 [banu.nayanajith@hotmail.com](mailto:banu.nayanajith@hotmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/banukanayanajith/) | 🐙 [GitHub](https://github.com/banukanayanajith)
 
